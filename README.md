@@ -17,8 +17,6 @@ I love building *scalable web applications, real-time systems, and optimizing ba
 
 ## 🚀 Tech Stack  
 
-<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" />
-
 ### 🖥 Languages & Frameworks  
 <p>
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,react,nodejs,express,nextjs" height="50" />
