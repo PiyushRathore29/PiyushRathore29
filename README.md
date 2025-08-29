@@ -1,7 +1,5 @@
 # 👋 Hey there, I'm Piyush Raj!  
 
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-
 🎓 B.Tech IT @ IIIT Sonepat (2022–2026) | 💻 Full-Stack Developer | ⚡ Problem Solver  
 I love building *scalable web applications, real-time systems, and optimizing backend performance*.  
 
@@ -17,17 +15,14 @@ I love building *scalable web applications, real-time systems, and optimizing ba
 
 ## 🚀 Tech Stack  
 
-<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" />
-
 ### 🖥 Languages & Frameworks  
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,react,nodejs,express,nextjs" height="50" />
 </p>
 
-### 🗄 Databases & Tools  
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,linux,vscode,postman" height="50" />
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind" height="50" />
+### 🎨 Styling & Tools  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,git,github,linux,vscode,postman,mongodb,mysql" height="50" />
 </p>
 
 ---
