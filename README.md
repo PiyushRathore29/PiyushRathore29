@@ -75,13 +75,13 @@ I love building **scalable web applications, real-time systems, and optimizing b
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Aayushman-Gupta&show_icons=true&count_private=true&include_all_commits=true&theme=radical&bg_color=000000&title_color=ff0080&text_color=00eaff&icon_color=ffcc00" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=PiyushRathore29&show_icons=true&count_private=true&include_all_commits=true&theme=radical&bg_color=000000&title_color=ff0080&text_color=00eaff&icon_color=ffcc00" height="180"/>
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Aayushman-Gupta&theme=radical&hide_border=true&background=000000&ring=ff0080&fire=ff0080&currStreakLabel=ffcc00&sideNums=00eaff&sideLabels=00eaff&dates=ff66cc" height="180"/>
 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aayushman-Gupta&bg_color=000000&color=ff0080&line=00eaff&point=ffcc00&area=true&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PiyushRathore29&bg_color=000000&color=ff0080&line=00eaff&point=ffcc00&area=true&hide_border=true" width="100%"/>
 </div>
 
 ---
