@@ -71,7 +71,7 @@ I love building **scalable web applications, real-time systems, and optimizing b
 
 ## 📊 GitHub Stats & Activity  
 
-<h2 align="center">📈 Aayushman Gupta's GitHub Stats</h2>
+<h2 align="center">📈 Piyush Raj GitHub Stats</h2>
 
 <div align="center">
 
