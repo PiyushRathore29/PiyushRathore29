@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 🎓 B.Tech IT @ IIIT Sonepat (2022–2026) | 💻 Full-Stack Developer | ⚡ Problem Solver  
-I love building *scalable web applications, real-time systems, and optimizing backend performance*.  
+I love building **scalable web applications, real-time systems, and optimizing backend performance**.  
 
 ---
 
@@ -29,19 +29,19 @@ I love building *scalable web applications, real-time systems, and optimizing ba
 
 ---
 
-## 📂 Projects  
+## 📂 Featured Projects  
 
-- **[ChatPilot](https://github.com/PiyushRathore29/ChatPilot)** – Real-time messaging app (1,000+ users, WebSockets, JWT, bcrypt)  
-- **[Digital Library System](https://github.com/PiyushRathore29/Digital-Library-System)** – MERN-based library platform for 100+ users with role-based dashboards  
-- **[Sorting Algorithm Visualizer](https://github.com/PiyushRathore29/Sorting-Algorithm-Visualizer-)** – Interactive tool for DSA visualization (improved learning by 50%)  
+- 🚀 **[ChatPilot](https://github.com/PiyushRathore29/ChatPilot)** – Real-time messaging app (1,000+ users, WebSockets, JWT, bcrypt)  
+- 📚 **[Digital Library System](https://github.com/PiyushRathore29/Digital-Library-System)** – MERN-based library platform with role-based dashboards for 100+ users  
+- 🎨 **[Sorting Algorithm Visualizer](https://github.com/PiyushRathore29/Sorting-Algorithm-Visualizer-)** – Interactive DSA visualization tool (improved learning efficiency by 50%)  
 
 ---
 
 ## 📊 GitHub Stats & Activity  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PiyushRathore29&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PiyushRathore29&theme=tokyonight" alt="GitHub Streak" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PiyushRathore29&show_icons=true&theme=tokyonight" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PiyushRathore29&theme=tokyonight" height="180" alt="GitHub Streak" />
 </p>
 
 ---
