@@ -1,15 +1,16 @@
-# 👋 Hey there, I'm Piyush Raj! 
+# 👋 Hey there, I'm Aayushman!  
 
-🎓 B.Tech IT @ IIIT Sonepat (2022–2026) | 💻 Full-Stack Developer | ⚡ Problem Solver  
-I love building **scalable web applications, real-time systems, and optimizing backend performance**.
+🎓 CS/IT Enthusiast | 💻 Developer | 📊 AI & Data Science Learner  
+I love building *scalable web apps, **real-time systems, and exploring **AI/ML models*.  
+
 ---
 
 ## 🌟 About Me  
 - 🔭 Currently working on: *Reinforcement Learning*  
-- 🌱 Learning: *System Design, Cloud Computing, and Advanced DSA*  
+- 🌱 Learning: *Machine Learning, System Design, and Cloud*  
 - ⚡ Fun fact: I debug with ☕ + 🎶  
 - 🎨 Passionate about: *Beautiful UIs + Smart Backends*  
-- 🏆 Achievements: *5★ Coder @ HackerRank, 250+ LeetCode problems solved, 96.7%ile in JEE-Mains*  
+
 ---
 
 
@@ -103,7 +104,7 @@ I love building **scalable web applications, real-time systems, and optimizing b
 ## ✨ My Passions  
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&width=500&lines=Full+Stack+Developer;Problem+Solver;Open+Source+Contributor;Always+Learning+New+Things!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&width=500&lines=Full+Stack+Developer;AI+%26+ML+Explorer;Open+Source+Contributor;Always+Learning+New+Things!" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -114,7 +115,7 @@ I love building **scalable web applications, real-time systems, and optimizing b
 
 ## 📫 Connect with Me  
 <p align="center">
-  <a href="https://www.linkedin.com/in/piyush-raj-577a36323"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:rathorepiyush221@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/PiyushRathore29"><img src="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/Aayushman-creator"><img src="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
